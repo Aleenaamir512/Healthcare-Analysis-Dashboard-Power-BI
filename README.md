@@ -111,7 +111,8 @@ The **Patient ID** filter allows users to view information for individual patien
 
 ## 🖼️ Dashboard Preview
 
-![Uploading image.png…]()
+<img width="1132" height="643" alt="image" src="https://github.com/user-attachments/assets/d805c2c9-ab19-4787-b09f-9cd0f48378a8" />
+
 
 ---
 

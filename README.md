@@ -1,8 +1,8 @@
-# 🏥 Healthcare Leads Flow Dashboard | Power BI
+# 🏥 Healthcare Analytics Dashboard | Power BI
 
 ## 📌 Project Overview
 
-This project is an interactive **Healthcare Leads Flow Dashboard** developed using **Microsoft Power BI**.
+This project is an interactive **Healthcare Analytics Dashboard** developed using **Microsoft Power BI**.
 
 The dashboard provides an overview of hospital and patient-related information, including admission and discharge dates, diagnosis types, medical tests, bed occupancy, billing amounts, health insurance amounts, and doctor feedback.
 

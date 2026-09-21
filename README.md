@@ -111,7 +111,7 @@ The **Patient ID** filter allows users to view information for individual patien
 
 ## 🖼️ Dashboard Preview
 
-![Healthcare Leads Flow Dashboard](Healthcare Dashboard ss.png)
+![Uploading image.png…]()
 
 ---
 
